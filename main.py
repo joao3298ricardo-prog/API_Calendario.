@@ -17,7 +17,7 @@ service = build('calendar', 'v3', credentials=creds)
 
 # Evento
 evento = {
-    'summary': 'SURUBA',
+    'summary': 'PROVA',
     'description': 'Levar documento, caneta preta e chegar 30 minutos antes.',
     'start': {
         'date': '2026-06-09'
